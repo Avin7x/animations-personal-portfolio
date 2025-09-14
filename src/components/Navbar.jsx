@@ -53,10 +53,10 @@ const Navbar = () => {
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       transition={{ duration: 0.6, ease: "easeOut" }}
-      style={{
-        background:
-          "linear-gradient(108.8deg, rgba(1,22,56,1) 21.9%, rgba(52,33,158,1) 92.2%)",
-      }}
+      // style={{
+      //   background:
+      //     "linear-gradient(108.8deg, rgba(1,22,56,1) 21.9%, rgba(52,33,158,1) 92.2%)",
+      // }}
     >
       <motion.div
         className="logo"
