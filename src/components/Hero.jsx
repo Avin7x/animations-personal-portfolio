@@ -59,7 +59,7 @@ const Hero = () => {
               View my work
             </motion.a>
 
-            <motion.a href="#contacts" 
+            <motion.a href="#contact" 
             className="cta-secondary"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
