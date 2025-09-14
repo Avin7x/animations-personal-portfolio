@@ -92,7 +92,7 @@ const Navbar = () => {
               sx: {
                 width: 180,
                 height: 250,
-                bgcolor: "rgba(20,20,70,0.8)",  // new drawer background color
+                bgcolor: "rgba(15, 23, 42, 0.8)",  // new drawer background color
                 backdropFilter: "blur(10px)",    // blur effect
                 boxShadow: "none",
                 mt: "70px",                      // slightly below navbar
